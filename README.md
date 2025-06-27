@@ -20,4 +20,3 @@
 - ***my_list.pop(1)***:[1,3]
     -  elimina el elemento en el índice *1* y si no especifica ningún argumento, este método eliminará el último elemento de la lista. 
 
- 

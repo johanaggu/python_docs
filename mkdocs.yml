@@ -1,0 +1,8 @@
+site_name: Python Docs
+nav:
+  - Home: index.md
+  - About: about.md
+theme:
+  name: mkdocs
+  locale: en
+  nav_style: dark
